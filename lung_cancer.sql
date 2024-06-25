@@ -321,7 +321,7 @@ FROM
 
 
 
---temp-----
+--temporary queries for practice-----
 SELECT
     gender,
     CASE
