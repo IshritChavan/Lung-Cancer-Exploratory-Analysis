@@ -1,5 +1,5 @@
 # Lung-Cancer-Exploratory-Analysis
--This project leverages SQL and Power BI to conduct exploratory data analysis on a dataset containing primarily binary data. The dataset includes various attributes related to health and lifestyle factors, such as smoking habits, symptoms, and chronic conditions.
+This project leverages SQL and Power BI to conduct exploratory data analysis on a dataset containing primarily binary data. The dataset includes various attributes related to health and lifestyle factors, such as smoking habits, symptoms, and chronic conditions.
 -The main objective of this project is to derive meaningful insights from the dataset using SQL queries and visualizations created in Power BI. By analyzing the relationships between different variables, the project aims to uncover patterns and correlations that can provide valuable insights into factors associated with lung cancer risk.
 
 Key Features:
